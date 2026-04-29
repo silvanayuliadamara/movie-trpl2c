@@ -7,7 +7,7 @@
 @if (session('success'))
     <div class="alert alert-success">
         {{ session('success') }}
-    </div>    
+    </div>
 @endif
 
 <h1>Popular Movie</h1>
